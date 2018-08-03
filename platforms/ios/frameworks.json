@@ -1,0 +1,13 @@
+{
+    "libsqlite3.dylib": 1,
+    "CFNetwork.framework": 1,
+    "Foundation.framework": 1,
+    "Security.framework": 1,
+    "SystemConfiguration.framework": 1,
+    "UIKit.framework": 2,
+    "CoreTelephony.framework": 1,
+    "CoreLocation.framework": 2,
+    "PassKit.framework": 1,
+    "AudioToolbox.framework": 1,
+    "CoreBluetooth.framework": 1
+}

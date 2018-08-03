@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.innoquant.moca.phonegap": {
+            "PACKAGE_NAME": "com.proxtopic.bigbonos"
+        },
+        "cordova-plugin-android-permissions": {
+            "PACKAGE_NAME": "com.proxtopic.bigbonos"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.proxtopic.bigbonos"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.proxtopic.bigbonos"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.proxtopic.bigbonos"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.proxtopic.bigbonos"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.proxtopic.bigbonos"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.proxtopic.bigbonos"
+        }
+    },
+    "dependent_plugins": {}
+}

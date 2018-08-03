@@ -1,0 +1,41 @@
+*, html, body{
+  font-family: 'Lato', sans-serif;
+}
+
+.statusbar-overlay {
+    background: #000000;
+}
+
+.fondogris{
+  background-color: rgb(56, 61, 59) !important;
+}
+
+.titulo{
+  /*color: #bf242f !important;*/
+  color: white !important;
+}
+
+.wrap {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+
+}
+.frame {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.link{
+  color: white !important;
+  font-size: x-large;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.menuactive{
+  color: #bf242f !important;
+}

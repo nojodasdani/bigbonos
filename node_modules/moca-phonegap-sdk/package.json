@@ -1,0 +1,57 @@
+{
+  "_from": "git+https://github.com/mocaplatform/moca-phonegap-sdk.git",
+  "_id": "moca-phonegap-sdk@2.7.0",
+  "_inBundle": false,
+  "_location": "/moca-phonegap-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mocaplatform/moca-phonegap-sdk.git",
+    "rawSpec": "https://github.com/mocaplatform/moca-phonegap-sdk.git",
+    "saveSpec": "git+https://github.com/mocaplatform/moca-phonegap-sdk.git",
+    "fetchSpec": "https://github.com/mocaplatform/moca-phonegap-sdk.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mocaplatform/moca-phonegap-sdk.git#5633292c780eb54b6f5800bd94e41709a2c66400",
+  "_spec": "https://github.com/mocaplatform/moca-phonegap-sdk.git",
+  "_where": "/Users/daniel/Downloads/Bigbonos2",
+  "author": {
+    "name": "MOCAPlatform"
+  },
+  "bugs": {
+    "url": "https://github.com/mocaplatform/moca-phonegap-sdk/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.innoquant.moca.phonegap",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "InnoQuant MOCA SDK Plugin for PhoneGap/Cordova",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "homepage": "https://github.com/mocaplatform/moca-phonegap-sdk#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Copyright (c) 2014-2016 InnoQuant SL. All rights reserved.",
+  "name": "moca-phonegap-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocaplatform/moca-phonegap-sdk.git"
+  },
+  "version": "2.7.0"
+}
